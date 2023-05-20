@@ -1,0 +1,51 @@
+#main-h{
+    font-size: 48px;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    font-family: Verdana, 'Times New Roman', sans-serif;
+    font-size: 30px;
+}
+
+.one{
+    background-color: black;
+    color: white;
+    font-size: 48px;
+}
+
+.two{
+    background-color: red;
+    color: black;
+}
+
+.three{
+    background-color: green;
+    color: blue;
+}
+
+.four{
+    background-color: blue;
+    color: yellow;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+p, ul, ol {
+    text-align:center;
+    font-family: Verdana, "Time New Roman", sans-serif;
+    font-weight: bold;
+}
+
+ul, ol{
+    list-style-position:inside;
+}
+
+
