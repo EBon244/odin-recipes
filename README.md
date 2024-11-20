@@ -5,3 +5,4 @@ The current project is to build a website using the fundamentals of HTML. I will
 Reflection (When Complete)
 Overall a fairly basic project that was more time consuming than hard. Although it helped shed light on improvements I need to make
 like memorization of certain commands. I look forward to coming back and seeing how poorly my website was made!
+ As of may 20th added some CSS elements.
